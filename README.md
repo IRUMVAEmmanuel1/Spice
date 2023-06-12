@@ -1,1 +1,1 @@
-# This is Spice webpage | Andela KickStart Program
+# This is odin-recipes webpage | Andela KickStart Program
